@@ -14,8 +14,8 @@ This project mainly analyzes from two aspects. On the one hand, it is from the u
 
 👍 Group Members
 
-*Chenjie Gong 
-*Yuqi Wang 
-*Panagiotis Stylianos 
-*Yiwen Liu 
-*Peimin Lin
+* Chenjie Gong 
+* Yuqi Wang 
+* Panagiotis Stylianos 
+* Yiwen Liu 
+* Peimin Lin
